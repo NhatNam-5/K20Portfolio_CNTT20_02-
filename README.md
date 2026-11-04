@@ -41,7 +41,7 @@ Ngày 04/11/2026, em đã mở URL Pages trong trình duyệt thường và th�
 
 - Chưa thử trên iPhone hoặc ở bề rộng 375px.
 - Chưa kiểm tra bằng cửa sổ ẩn danh.
-- V8 đã sửa tên hiển thị, lớp và liên kết GitHub; đã bỏ địa chỉ email không thuộc hồ sơ này. Cần xác minh lại sau khi website cập nhật.
+- V8 đã sửa tên hiển thị, lớp và liên kết GitHub; đã bỏ địa chỉ email không thuộc hồ sơ này. Đã mở lại website sau khi cập nhật ngày 04/11/2026.
 - Biểu mẫu liên hệ chỉ là minh họa, chưa gửi email thật.
 
 ## Khai báo AI
