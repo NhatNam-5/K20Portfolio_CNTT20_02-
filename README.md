@@ -35,12 +35,12 @@ README.md
 
 ## Đã kiểm tra
 
-Ngày 04/11/2026, em đã mở URL Pages trong trình duyệt thường và thấy nội dung portfolio cùng hình ảnh, giao diện được hiển thị. Chưa kiểm tra bằng cửa sổ ẩn danh, trên điện thoại 375px hoặc toàn bộ liên kết menu. Chi tiết nằm trong [bảng minh chứng](docs/evidence-index.md).
+Ngày 04/11/2026, em đã mở URL Pages trong trình duyệt thường và thấy nội dung portfolio cùng hình ảnh, giao diện được hiển thị. Em đã bấm cả 5 mục menu; mỗi mục đều chuyển đến đúng phần có cùng tên. Chưa kiểm tra bằng cửa sổ ẩn danh hoặc trên điện thoại 375px. Chi tiết nằm trong [bảng minh chứng](docs/evidence-index.md).
 
 ## Hạn chế / Chưa kiểm tra
 
 - Chưa thử trên iPhone hoặc ở bề rộng 375px.
-- Chưa kiểm tra đầy đủ từng mục menu bằng thao tác trực tiếp.
+- Chưa kiểm tra bằng cửa sổ ẩn danh.
 - V8 đã sửa tên hiển thị, lớp và liên kết GitHub; đã bỏ địa chỉ email không thuộc hồ sơ này. Cần xác minh lại sau khi website cập nhật.
 - Biểu mẫu liên hệ chỉ là minh họa, chưa gửi email thật.
 
